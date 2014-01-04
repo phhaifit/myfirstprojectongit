@@ -19,6 +19,10 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
+- (IBAction)helloClassTouchUp:(id)sender {
+}
+- (IBAction)helloTeacherTouchUp:(id)sender {
+}
 
 - (void)didReceiveMemoryWarning
 {
