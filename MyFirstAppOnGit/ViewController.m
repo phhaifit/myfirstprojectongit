@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)helloClassTouchUp:(id)sender {
+    lblString.text = @"Hello Class";
 }
 - (IBAction)helloTeacherTouchUp:(id)sender {
 }
