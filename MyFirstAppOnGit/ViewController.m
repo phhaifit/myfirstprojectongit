@@ -23,6 +23,8 @@
     lblString.text = @"Hello Class";
 }
 - (IBAction)helloTeacherTouchUp:(id)sender {
+    
+    // Test phhai
 }
 
 - (void)didReceiveMemoryWarning

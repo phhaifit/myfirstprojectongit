@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 {
     
+    // Test push code
     __weak IBOutlet UILabel *lblString;
 }
 
